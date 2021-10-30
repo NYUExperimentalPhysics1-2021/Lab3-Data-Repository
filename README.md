@@ -1,4 +1,4 @@
-# Lab2-Data-Repository
+# Lab3-Data-Repository
 
 **IMPORTANT** This data repository has public access. Anything you put in it can be seen by anyone, anywhere! Don't put anything personal or private in here! 
 
@@ -8,7 +8,7 @@ Log into github desktop on the lab computer
 
 ![github_signin](https://user-images.githubusercontent.com/237963/137568522-e5ff801c-45ed-4083-946f-45c077640ae3.png)
 
-Accept the assignment link from: https://classroom.github.com/a/7yg2mGm5
+Accept the assignment link from: https://classroom.github.com/a/X6F76QOb
 
 Clone the repository you created by accepting the assignment. The repository name will be NYUExperimentalPhysics1-2021/lab2-data-repository-**your github username** Make sure you include your username (don't clone the template repository; you won't be able to push changes later)
 
